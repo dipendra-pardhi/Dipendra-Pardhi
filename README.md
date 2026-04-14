@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Dipendra Pardhi
 
-🚀 Data Analyst | SQL • Power BI • Python
-
-📊 Turning raw data into actionable insights
-📈 Building KPI dashboards & data-driven solutions
+🚀 Data Analyst | SQL • Power BI • Python  
+📊 Turning raw data into actionable insights  
+📈 Building KPI dashboards & data-driven business solutions  
 
 ---
 
 ## 👨‍💻 About Me
+👨‍💻 About Me
 
-💡 Passionate about solving real-world business problems using data
-📊 Skilled in data analysis, dashboard development & predictive modeling
-🎯 Focused on delivering insights that drive business decisions
+💡 I am a passionate and detail-oriented Data Analyst with hands-on experience in transforming raw data into meaningful insights that drive business decisions.
+📊 Skilled in analyzing large datasets, building interactive dashboards, and identifying trends using tools like Power BI, SQL, Python, and Excel.
+📈 I have worked on multiple end-to-end projects involving data cleaning, data modeling, exploratory data analysis (EDA), and predictive modeling.
+🚀 Strong understanding of business metrics such as Revenue, KPI tracking, Customer Segmentation, and Performance Analysis.
+🎯 Continuously learning and improving my skills to solve real-world problems using data-driven approaches and deliver impactful solutions.
 
 ---
 
