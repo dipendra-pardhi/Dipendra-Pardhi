@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Dipendra Pardhi
 
-<!--
-**dipendra-pardhi/Dipendra-Pardhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Analyst | SQL • Power BI • Python
 
-Here are some ideas to get you started:
+📊 Turning raw data into actionable insights
+📈 Building KPI dashboards & data-driven solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+💡 Passionate about solving real-world business problems using data
+📊 Skilled in data analysis, dashboard development & predictive modeling
+🎯 Focused on delivering insights that drive business decisions
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KPI-Dashboard-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau" />
+<img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-2196F3?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 Projects
+
+🔹 **Hotel Revenue Optimization & Performance Dashboard**
+Analyzed booking data to track revenue, occupancy, and cancellations using SQL & Power BI
+
+🔹 **Customer 360 & Revenue Intelligence System**
+Performed RFM analysis and built CLV model to identify high-value customers
+
+🔹 **Retail Sales Forecasting & Customer Analytics**
+Developed ARIMA model to forecast sales trends and support demand planning
+
+🔹 **E-Commerce Sales & Customer Behavior Analysis**
+Analyzed product performance, payments, and delivery trends using SQL & Power BI
+
+🔹 **Festive Sales & Revenue Analysis Dashboard**
+Identified top-performing states and customer segments driving revenue
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: [dipendrapardhi622@gmail.com](mailto:dipendrapardhi622@gmail.com)
+📍 Nagpur, India
+🔗 LinkedIn: [https://www.linkedin.com/in/dipendra-pardhi-93219b33b](https://www.linkedin.com/in/dipendra-pardhi-93219b33b)
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
