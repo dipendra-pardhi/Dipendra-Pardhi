@@ -47,27 +47,29 @@
 # 📸 Portfolio Preview
 
 ## 🔐 Admin Login Page
-![Admin Login](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/login-page.png)
+![Admin Login Page](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190933.png)
 
 ---
 
-## 🏠 Hero / Introduction Section
-![Hero Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/home-page.png)
+## 🏠 Home / Introduction Page
+![Home Page](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20185741.png)
 
 ---
 
-## 📂 Projects Showcase
-![Projects Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/projects-section.png)
+## 📂 Projects Section
+![Projects Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190044.png)
+![Projects Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190022.png)
+![Projects Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190103.png)
 
 ---
 
 ## 🛠 Skills Section
-![Skills Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/skills-section.png)
+![Skills Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20185850.png)
 
 ---
 
 ## 🎓 Education Section
-![Education Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/education-section.png)
+![Education Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190124.png)
 
 ---
 
