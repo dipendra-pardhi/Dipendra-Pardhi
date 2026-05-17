@@ -64,7 +64,7 @@
 ---
 
 ## 🛠 Skills Section
-![Skills Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20185850.png)
+![Skills Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20203011.png)
 
 ---
 
